@@ -1,2 +1,2 @@
 # MiniProject1
-Simple Web using bootstrap only need to add css in it..
+Simple Tutorial Web Page Front End Only
